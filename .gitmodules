@@ -1,0 +1,6 @@
+[submodule "course3work_frontend"]
+	path = course3work_frontend
+	url = https://github.com/fl0wsnake/course3work_frontend
+[submodule "course3work_backend"]
+	path = course3work_backend
+	url = https://github.com/fl0wsnake/course3work_backend
